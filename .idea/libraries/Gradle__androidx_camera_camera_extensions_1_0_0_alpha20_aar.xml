@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.camera:camera-extensions:1.0.0-alpha20@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1f23fc5ab9bdb560ac26670e6841dbef/jetified-camera-extensions-1.0.0-alpha20/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b3096119631a7f5ddf212a6ca036053f/jetified-camera-extensions-1.0.0-alpha20/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/42eb69e3026ffa12da3ddb159c3e54de/jetified-camera-extensions-1.0.0-alpha20/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1f23fc5ab9bdb560ac26670e6841dbef/jetified-camera-extensions-1.0.0-alpha20/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1f23fc5ab9bdb560ac26670e6841dbef/jetified-camera-extensions-1.0.0-alpha20/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1f23fc5ab9bdb560ac26670e6841dbef/jetified-camera-extensions-1.0.0-alpha20/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.camera/camera-extensions/1.0.0-alpha20/a2570f7b39d3ccfb269767e7a49e7d2d2d080d9b/camera-extensions-1.0.0-alpha20-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

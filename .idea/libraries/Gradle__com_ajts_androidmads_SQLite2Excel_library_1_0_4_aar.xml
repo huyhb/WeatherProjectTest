@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.ajts.androidmads.SQLite2Excel:library:1.0.4@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7a552820f703494ece8786eb0ed079a9/jetified-library-1.0.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7a552820f703494ece8786eb0ed079a9/jetified-library-1.0.4/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7a552820f703494ece8786eb0ed079a9/jetified-library-1.0.4/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ajts.androidmads.SQLite2Excel/library/1.0.4/f6ebc7f12cb0adc20ddf38b893413bf00dd154d9/library-1.0.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ajts.androidmads.SQLite2Excel/library/1.0.4/4f61028a5424723da1c103b0461c5141dee228d0/library-1.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
